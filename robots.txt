@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thebroadercollective.com/sitemap.xml
