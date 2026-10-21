@@ -1,4 +1,4 @@
-# thebroadercollective.com
+#  thebroadercollective.com
 
 Static site for The Broader Collective, LLC, hosted on GitHub Pages.
 
